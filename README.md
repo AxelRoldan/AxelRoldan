@@ -10,4 +10,4 @@ Soy estudiante de la UNLa tengo 27 años y estoy cursando el 3er año de la lice
 
 ### Database
 
-https://img.shields.io/badge/<DB>-<MongoDB>-<green>
+!{MongoDB}(https://img.shields.io/badge/BD-MongoDB-green)
