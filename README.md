@@ -1,7 +1,7 @@
 ### :technologist: HOLA! Mi nombre es Axel Roldan. :technologist:
 
 
-https://img.shields.io/badge/BD-MongoDB-green 
+# Acerca de mi
 
 Here are some ideas to get you started:
 
