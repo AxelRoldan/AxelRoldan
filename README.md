@@ -24,6 +24,6 @@ Soy estudiante de la UNLa tengo 26 años y estoy cursando el 3er año de la lice
 ### Back-End
 
 ![JAVA](https://img.shields.io/badge/B-Java-important?style=for-the-badge&logo=appveyor)
-![C#](https://img.shields.io/badge/B-C#-blueviolet?style=for-the-badge&logo=appveyor)
+![C#](https://img.shields.io/badge/B-C#-violet?style=for-the-badge&logo=appveyor)
 ![C](https://img.shields.io/badge/B-C-9cf?style=for-the-badge&logo=appveyor)
 
