@@ -1,7 +1,7 @@
-### Hi there 👋
+### HOLA! Mi nombre es Axel Roldan.
 
 
-**AxelRoldan/AxelRoldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
