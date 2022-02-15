@@ -3,7 +3,7 @@
 
 ### Acerca de mi
 
-Here are some ideas to get you started:
+Soy estudiante de la UNLa cursando el 3er año de la licenciatura en sistemas. Me considero una persona con iniciativa que esta buscando nuevos desafíos en el ámbito laboral.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
