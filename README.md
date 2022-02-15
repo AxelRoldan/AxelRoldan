@@ -37,5 +37,5 @@ Soy estudiante de la UNLa tengo 26 años y estoy cursando el 3er año de la lice
 
 ## Social NetWorks
 
-![LINKEDIN](https://www.canva.com/design/DAE4awfL-YE/view)
+![LINKEDIN](C:\Users\Yoshi\Desktop\Logos)
 
