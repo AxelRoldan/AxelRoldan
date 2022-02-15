@@ -1,7 +1,7 @@
-### :technologist: HOLA! Mi nombre es Axel Roldan. :technologist:
+## :technologist: HOLA! Mi nombre es Axel Roldan. :technologist:
 
 
-# Acerca de mi
+### Acerca de mi
 
 Here are some ideas to get you started:
 
