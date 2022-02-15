@@ -37,5 +37,5 @@ Soy estudiante de la UNLa tengo 26 años y estoy cursando el 3er año de la lice
 
 ## Social NetWorks
 
-![LINKEDIN](C:\Users\Yoshi\Desktop\Logos\AXELROLDAN)
+Visita mi [Linkedin](https://www.linkedin.com/in/axel-sebastian-roldan-358b78171/) o mandame un correo a AxelRoldan@outlook.es
 
