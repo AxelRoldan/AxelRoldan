@@ -29,5 +29,8 @@ Soy estudiante de la UNLa tengo 26 años y estoy cursando el 3er año de la lice
 
 ### Complementary
 
-![GIT](https://img.shields.io/badge/C-GIT/GITHUB/BASH/EXTENSIONS-9cf?style=for-the-badge&logo=appveyor)
+![GIT](https://img.shields.io/badge/C-GIT-ff69b4?style=for-the-badge&logo=appveyor)
+![GIT](https://img.shields.io/badge/C-GITHUB-ff69b4?style=for-the-badge&logo=appveyor)
+![GIT](https://img.shields.io/badge/C-GITBASH/-ff69b4?style=for-the-badge&logo=appveyor)
+![GIT](https://img.shields.io/badge/C-GITEXTENSIONS-ff69b4?style=for-the-badge&logo=appveyor)
 
