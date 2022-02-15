@@ -17,7 +17,7 @@ Soy estudiante de la UNLa tengo 26 años y estoy cursando el 3er año de la lice
 
 ![HTML](https://img.shields.io/badge/F-HTML5-blue?style=for-the-badge&logo=appveyor)
 ![CSS](https://img.shields.io/badge/F-CSS-green?style=for-the-badge&logo=appveyor)
-![JAVASCRIPT](https://img.shields.io/badge/F-JavaScript-red?style=for-the-badge&logo=appveyor)
+![JAVASCRIPT](https://img.shields.io/badge/F-JavaScript-yellow?style=for-the-badge&logo=appveyor)
 ![RAZOR](https://img.shields.io/badge/F-Razor-violet?style=for-the-badge&logo=appveyor)
 ![BOOTSTRAP](https://img.shields.io/badge/F-Bootstrap-violet?style=for-the-badge&logo=appveyor)
 
@@ -37,5 +37,5 @@ Soy estudiante de la UNLa tengo 26 años y estoy cursando el 3er año de la lice
 
 ## Social NetWorks
 
-
+![LINKEDIN](https://www.canva.com/design/DAE4awfL-YE/fGeALbvTmictwjVOPQtF-g/view?utm_content=DAE4awfL-YE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
