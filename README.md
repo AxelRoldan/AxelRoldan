@@ -13,10 +13,17 @@ Soy estudiante de la UNLa tengo 26 años y estoy cursando el 3er año de la lice
 ![Mongo](https://img.shields.io/badge/DB-MongoDB-green?style=for-the-badge&logo=appveyor)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-blue?style=for-the-badge&logo=appveyor)
 
-### Front
+### Front-End
 
 ![HTML](https://img.shields.io/badge/F-HTML5-blue?style=for-the-badge&logo=appveyor)
 ![CSS](https://img.shields.io/badge/F-CSS-green?style=for-the-badge&logo=appveyor)
 ![JAVASCRIPT](https://img.shields.io/badge/F-JavaScript-red?style=for-the-badge&logo=appveyor)
 ![RAZOR](https://img.shields.io/badge/F-Razor-violet?style=for-the-badge&logo=appveyor)
 ![BOOTSTRAP](https://img.shields.io/badge/F-Bootstrap-violet?style=for-the-badge&logo=appveyor)
+
+### Back-End
+
+![JAVA](https://img.shields.io/badge/B-Java-important?style=for-the-badge&logo=appveyor)
+![C#](https://img.shields.io/badge/B-C#-blueviolet?style=for-the-badge&logo=appveyor)
+![C](https://img.shields.io/badge/B-C-9cf?style=for-the-badge&logo=appveyor)
+
